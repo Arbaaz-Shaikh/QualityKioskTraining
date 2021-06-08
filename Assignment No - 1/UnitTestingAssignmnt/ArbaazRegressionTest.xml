@@ -1,0 +1,10 @@
+  <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  
+  <suite name="RegressionTestingStrings">
+
+       <test name="ArbaazConcatenateTest">
+       <classes>
+          <class name="QualityKioskTraining.UnitTestingAssignmnt.ArbaazConcatenateTest"/>
+       </classes>
+       </test>       
+</suite>

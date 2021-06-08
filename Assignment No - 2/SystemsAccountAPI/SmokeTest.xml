@@ -1,0 +1,12 @@
+<suite name="TestingAccountSystemAPISmoke">
+<groups>
+     <run>
+     <include name="SmokeTest"/>
+     </run>
+   </groups>
+       <test name="TestAccount">
+       <classes>
+          <class name="QualitykioskTraining.AccountSystemAPI.TestAccount"/>
+       </classes>
+       </test>
+ </suite> 

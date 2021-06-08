@@ -1,0 +1,10 @@
+<suite name="TestingAccountSystemAPI">
+   <parameter name="RequestID" value="Req101"/>
+
+       <test name="TestAccount">
+       <classes>
+          <class name="QualitykioskTraining.AccountSystemAPI.TestAccount"/>
+       </classes>
+       </test>   
+           
+</suite>
